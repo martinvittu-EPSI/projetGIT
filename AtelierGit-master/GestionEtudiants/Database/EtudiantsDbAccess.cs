@@ -123,6 +123,7 @@ namespace GestionEtudiants.Database
         public void Supprimer(Etudiant element)
         {
             // TODO: Supprimer un étudiant existant de la base de données
+            // ceci est un commentaire trop swag
         }
     }
 }
