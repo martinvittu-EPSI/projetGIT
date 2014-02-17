@@ -12,7 +12,7 @@ namespace GestionEtudiants
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        static void Main() // ceci est un test
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
